@@ -1,0 +1,23 @@
+
+/* Style untuk header */
+.header {
+    color: #fff;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style untuk form kontak */
+.contact-form {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 0px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* Style untuk alamat dan peta */
+.address {
+    margin-top: 20px;
+}
